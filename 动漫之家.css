@@ -1,0 +1,322 @@
+#self
+{
+    position :absolute;
+    right: 320px;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: "仿宋";
+    color: blue;
+    text-decoration: none;
+}
+
+#change
+{
+    position :absolute;
+    right: 300px;
+    height: 15px;
+    
+}
+
+body
+{
+    background-color: whitesmoke;
+    background-image: url("images/背景.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#logo
+{
+    position: absolute;
+    left: 280px;
+    width: 240px;
+}
+
+#form
+{
+    position: absolute;
+    right: 375px;
+    font-size: 12px;
+    border-top-style:none;
+    border-right-style:itset;
+    border-bottom-style:none;
+    border-left-style:none;
+    border-width: 1px;
+    border-color :whitesmoke;
+    height: 20px;
+}
+
+#link #link1
+{
+    position: absolute;
+    right: 320px;
+    top: 50px;
+    font-size: 12px;
+    color: black;
+}
+
+#link #link1:link{
+    text-decoration: none;
+}
+
+#link #link1:visited{
+    text-decoration: none;
+}
+
+#link #link1:hover{
+    text-decoration: underline;
+}
+
+#link #link2
+{
+    position: absolute;
+    top: 90px;
+    right: 320px;
+    font-size: 12px;
+    color: blue;
+}
+
+#link #link2:link{
+    text-decoration: none;
+}
+
+#link #link2:visited{
+    text-decoration: none;
+}
+
+#link #link2:hover{
+    text-decoration: underline;
+}
+
+#leading
+{
+    position: absolute;
+    left: 280px;
+    top: 135px;
+    background-color: rgb(84, 117, 206);
+    /*border-color: blue;*/
+    border-style: none none none none; 
+}
+
+.leading
+{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    width: 102px;
+    text-align: center;
+    border-style: none ridge none ridge;
+    border-width: 1px;
+    border-color: black;
+}
+
+#search
+{
+    position: absolute;
+    left: 280px;
+    top: 180px;
+    content: "请输入搜索内容";
+}
+
+#搜索
+{
+    position: absolute;
+    top: 3px;
+    width: 25px;
+}
+
+label#num
+{
+    color: red;
+}
+
+#inf
+{
+    position: absolute;
+    top: 175px;
+    left: 260px;
+}
+
+label#upd
+{
+    position: absolute;
+    left: 700px;
+    width: 300px;
+}
+
+div.sta
+{
+    position: absolute;
+    left: 280px;
+    top: 235px;
+}
+
+label#att
+{
+    font-size: 12px;
+    color: gray;
+}
+
+label#val
+{
+    font-size: 12px;
+}
+
+a#adver
+{
+    text-decoration: none;
+    color: red;
+    font-size: 13px;
+    font-weight: bolder;
+}
+
+a#adver:link
+{
+    text-decoration: none;
+}
+
+a#adver:visited
+{
+    text-decoration: none;
+}
+
+a#adver:hover
+{
+    text-decoration: underline                                                                                                                                                     ;
+}
+
+#zone
+{
+    text-decoration: none;
+    position: absolute;
+    left: 280px;
+    border-style:outset;
+    border-width: 1px;
+    border-color: lightgrey;
+    width: 950px;
+    height: 100px;
+}
+
+#button1
+{
+    position: absolute;
+    right: 3px;
+    background: url(images/收起.jpg);
+    height: 17px;
+    width: 17px;
+    border-style: none;
+}
+
+table#sort1
+{
+    position: absolute;
+    left: 280px;
+}
+
+td#td1
+{
+    position: absolute;
+    left: 350px;
+}
+
+td#td2
+{
+    position: absolute;
+    left: 720px;
+}
+
+a#work
+{
+    color: red;
+    font-weight: bolder;
+}
+
+a#work:link
+{
+    text-decoration: none;
+}
+
+a#work:visited
+{
+    text-decoration: none;
+}
+
+a#work:hover
+{
+    text-decoration: underline;
+}
+
+table#border
+{
+    border-style: ridge;
+    border-collapse: collapse;
+}
+
+img#img
+{
+    position: absolute;
+    left: 280px;
+    width: 950px;
+    height: 360px;
+}
+
+.button1
+{
+    position: absolute;
+    right: 420px;
+    background-color: rgb(42, 100, 158);
+    opacity: 75%;
+}
+
+.button2
+{
+    position: absolute;
+    right: 390px;
+    background-color: rgb(42, 100, 158);
+    opacity: 75%;
+}
+
+.button3
+{
+    position: absolute;
+    right: 360px;
+    background-color: rgb(42, 100, 158);
+    opacity: 75%;
+}
+
+.button4
+{
+    position: absolute;
+    right: 330px;
+    background-color: rgb(42, 100, 158);
+    opacity: 75%;
+}
+
+.button5
+{
+    position: absolute;
+    right: 300px;
+    background-color: rgb(42, 100, 158);
+    opacity: 75%;
+}
+
+.tex1
+{
+    opacity: 45%;
+    color: white;
+    position: absolute;
+    left: 290px;
+    font-size: 20px;
+}
+
+a#new:link{
+    text-decoration: none;
+}
+
+a#new:visited{
+    text-decoration: none;
+}
+
+a#new:hover{
+    text-decoration: underline;
+}
